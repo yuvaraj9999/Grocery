@@ -1,0 +1,48 @@
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.DevTools\obj\Debug\SmartStore.DevTools.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.DevTools\obj\Debug\SmartStore.DevTools.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Description.txt
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\MyCheckout\MyBillingAddress.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\MiniProfiler.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Web.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\Configure.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\Web.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\WidgetZone.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\BackendExtension.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\MachineName.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\ProductEditTab.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\Story\BlockTemplates\Sample\Edit.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\Story\BlockTemplates\Sample\Public.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\MyCustomFacetTemplate.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Localization\resources.de-de.xml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Localization\resources.en-us.xml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\SmartStore.DevTools.dll.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\SmartStore.DevTools.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\SmartStore.DevTools.pdb
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.DevTools\obj\Debug\SmartStore.DevTools.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.DevTools\obj\Debug\SmartStore.DevTools.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.DevTools\obj\Debug\SmartStore.DevTools.csproj.CopyComplete
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.DevTools\obj\Debug\SmartStore.DevTools.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.DevTools\obj\Debug\SmartStore.DevTools.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Description.txt
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\MyCheckout\MyBillingAddress.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\MiniProfiler.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Web.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\Configure.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\Web.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\WidgetZone.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\BackendExtension.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\MachineName.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\ProductEditTab.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\Story\BlockTemplates\Sample\Edit.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\Story\BlockTemplates\Sample\Public.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Views\DevTools\MyCustomFacetTemplate.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Localization\resources.de-de.xml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\Localization\resources.en-us.xml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\SmartStore.DevTools.dll.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\SmartStore.DevTools.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.DevTools\SmartStore.DevTools.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.DevTools\obj\Debug\SmartStore.DevTools.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.DevTools\obj\Debug\SmartStore.DevTools.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.DevTools\obj\Debug\SmartStore.DevTools.csproj.CopyComplete
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.DevTools\obj\Debug\SmartStore.DevTools.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.DevTools\obj\Debug\SmartStore.DevTools.pdb

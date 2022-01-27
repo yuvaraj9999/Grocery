@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ccd7f2c9-6a2c-4cf0-8e89-076b8fc0f144": {
+      "ProjectGuid": "ccd7f2c9-6a2c-4cf0-8e89-076b8fc0f144",
+      "DisplayName": "SmartStore.Data",
+      "ColorIndex": 0
+    },
+    "a5f92099-b46b-488d-9f8e-380394815619": {
+      "ProjectGuid": "a5f92099-b46b-488d-9f8e-380394815619",
+      "DisplayName": "SmartStore.AdminEF",
+      "ColorIndex": 1
+    },
+    "152c761a-dd2e-4c1f-af89-dfb2547a3bca": {
+      "ProjectGuid": "152c761a-dd2e-4c1f-af89-dfb2547a3bca",
+      "DisplayName": "SmartStore.Admin",
+      "ColorIndex": 2
+    },
+    "4f1f649c-1020-45be-a487-f416d9297ff3": {
+      "ProjectGuid": "4f1f649c-1020-45be-a487-f416d9297ff3",
+      "DisplayName": "SmartStore.Web",
+      "ColorIndex": 3
+    },
+    "75fd4163-333c-4dd5-854d-2ef294e45d94": {
+      "ProjectGuid": "75fd4163-333c-4dd5-854d-2ef294e45d94",
+      "DisplayName": "SmartStore.Web.Framework",
+      "ColorIndex": 4
+    },
+    "210541ad-f659-47da-8763-16f36c5cd2f4": {
+      "ProjectGuid": "210541ad-f659-47da-8763-16f36c5cd2f4",
+      "DisplayName": "SmartStore.Services",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

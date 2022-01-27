@@ -1,0 +1,58 @@
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.AmazonPay\obj\Debug\SmartStore.AmazonPay.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.AmazonPay\obj\Debug\SmartStore.AmazonPay.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Content\SmartStore.AmazonPay.css
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Content\branding.png
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Content\images\favicon.png
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Scripts\jquery.deserialize.js
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPay\Configure.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPayShoppingCart\ShoppingCart.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\changelog.md
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\Web.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\web.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPayCheckout\ShippingAddress.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPayCheckout\PaymentMethod.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPayShoppingCart\OrderReviewData.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPayShoppingCart\MiniShoppingCart.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\Shared\ScriptingLoginButton.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPayShoppingCart\ScriptingReadWidgets.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPay\AuthenticationPublicInfo.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Content\icon.png
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Description.txt
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Localization\resources.de-de.xml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Localization\resources.en-us.xml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\SmartStore.AmazonPay.dll.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\SmartStore.AmazonPay.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\SmartStore.AmazonPay.pdb
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.AmazonPay\obj\Debug\SmartStore.AmazonPay.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.AmazonPay\obj\Debug\SmartStore.AmazonPay.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.AmazonPay\obj\Debug\SmartStore.AmazonPay.csproj.CopyComplete
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.AmazonPay\obj\Debug\SmartStore.AmazonPay.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.AmazonPay\obj\Debug\SmartStore.AmazonPay.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Content\SmartStore.AmazonPay.css
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Content\branding.png
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Content\images\favicon.png
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Scripts\jquery.deserialize.js
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPay\Configure.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPayShoppingCart\ShoppingCart.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\changelog.md
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\Web.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\web.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPayCheckout\ShippingAddress.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPayCheckout\PaymentMethod.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPayShoppingCart\OrderReviewData.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPayShoppingCart\MiniShoppingCart.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\Shared\ScriptingLoginButton.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPayShoppingCart\ScriptingReadWidgets.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Views\AmazonPay\AuthenticationPublicInfo.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Content\icon.png
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Description.txt
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Localization\resources.de-de.xml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\Localization\resources.en-us.xml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\SmartStore.AmazonPay.dll.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\SmartStore.AmazonPay.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.AmazonPay\SmartStore.AmazonPay.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.AmazonPay\obj\Debug\SmartStore.AmazonPay.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.AmazonPay\obj\Debug\SmartStore.AmazonPay.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.AmazonPay\obj\Debug\SmartStore.AmazonPay.csproj.CopyComplete
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.AmazonPay\obj\Debug\SmartStore.AmazonPay.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.AmazonPay\obj\Debug\SmartStore.AmazonPay.pdb

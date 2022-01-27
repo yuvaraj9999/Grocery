@@ -1,0 +1,36 @@
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.Data.Migrations.Initial.resources
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.csproj.GenerateResource.cache
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Views\ByTotal\Configure.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\web.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Views\Web.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Views\FixedRate\Configure.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Description.txt
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Localization\resources.de-de.xml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Localization\resources.en-us.xml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\SmartStore.Shipping.dll.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\SmartStore.Shipping.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\SmartStore.Shipping.pdb
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.Data.Migrations.Initial.resources
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.csproj.GenerateResource.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Views\ByTotal\Configure.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\web.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Views\Web.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Views\FixedRate\Configure.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Description.txt
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Localization\resources.de-de.xml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Localization\resources.en-us.xml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\SmartStore.Shipping.dll.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\SmartStore.Shipping.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\SmartStore.Shipping.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.Data.Migrations.Initial.resources
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.csproj.GenerateResource.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.pdb

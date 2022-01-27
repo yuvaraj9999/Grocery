@@ -1,0 +1,18 @@
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\bin\SmartStore.Admin.dll.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\bin\SmartStore.Admin.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\bin\SmartStore.Admin.pdb
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csproj.CopyComplete
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\bin\SmartStore.Admin.dll.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\bin\SmartStore.Admin.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\bin\SmartStore.Admin.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csproj.CopyComplete
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.pdb

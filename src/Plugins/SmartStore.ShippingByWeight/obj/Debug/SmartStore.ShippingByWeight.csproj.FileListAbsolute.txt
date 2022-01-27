@@ -1,0 +1,42 @@
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.Data.Migrations.Initial.resources
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.Data.Migrations.SmallQuantitySurcharge.resources
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.Data.Migrations.ZipCode.resources
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.csproj.GenerateResource.cache
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\Views\ShippingByWeight\Configure.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\Content\icon.png
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\web.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\Description.txt
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\Views\Web.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\Localization\resources.de-de.xml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\Localization\resources.en-us.xml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\SmartStore.ShippingByWeight.dll.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\SmartStore.ShippingByWeight.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\SmartStore.ShippingByWeight.pdb
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.Data.Migrations.Initial.resources
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.Data.Migrations.SmallQuantitySurcharge.resources
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.Data.Migrations.ZipCode.resources
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.csproj.GenerateResource.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\Views\ShippingByWeight\Configure.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\Content\icon.png
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\web.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\Description.txt
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\Views\Web.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\Localization\resources.de-de.xml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\Localization\resources.en-us.xml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\SmartStore.ShippingByWeight.dll.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\SmartStore.ShippingByWeight.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.ShippingByWeight\SmartStore.ShippingByWeight.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.Data.Migrations.Initial.resources
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.Data.Migrations.SmallQuantitySurcharge.resources
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.Data.Migrations.ZipCode.resources
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.csproj.GenerateResource.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.ShippingByWeight\obj\Debug\SmartStore.ShippingByWeight.pdb

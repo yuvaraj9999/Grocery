@@ -1,0 +1,34 @@
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.WebApi\obj\Debug\SmartStore.WebApi.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Plugins\SmartStore.WebApi\obj\Debug\SmartStore.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Description.txt
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Content\icon.png
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\web.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Views\Web.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Views\WebApi\Configure.cshtml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Localization\resources.de-de.xml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Localization\resources.en-us.xml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Scripts\swagger-auth.js
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\SmartStore.WebApi.dll.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\SmartStore.WebApi.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\SmartStore.WebApi.pdb
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.WebApi\obj\Debug\SmartStore.WebApi.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.WebApi\obj\Debug\SmartStore.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.WebApi\obj\Debug\SmartStore.WebApi.csproj.CopyComplete
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.WebApi\obj\Debug\SmartStore.WebApi.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Plugins\SmartStore.WebApi\obj\Debug\SmartStore.WebApi.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Description.txt
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Content\icon.png
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\web.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Views\Web.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Views\WebApi\Configure.cshtml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Localization\resources.de-de.xml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Localization\resources.en-us.xml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\Scripts\swagger-auth.js
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\SmartStore.WebApi.dll.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\SmartStore.WebApi.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Presentation\SmartStore.Web\Plugins\SmartStore.WebApi\SmartStore.WebApi.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.WebApi\obj\Debug\SmartStore.WebApi.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.WebApi\obj\Debug\SmartStore.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.WebApi\obj\Debug\SmartStore.WebApi.csproj.CopyComplete
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.WebApi\obj\Debug\SmartStore.WebApi.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Plugins\SmartStore.WebApi\obj\Debug\SmartStore.WebApi.pdb

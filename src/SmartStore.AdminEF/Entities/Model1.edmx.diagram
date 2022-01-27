@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="179cebda2a3847cf92b3ef59e8d1d507" Name="Diagram1" ZoomLevel="64">
+        <EntityTypeShape EntityType="GroceryStoreNewModel.C__MigrationHistory" Width="1.5" PointX="5.75" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.AclRecord" Width="1.5" PointX="18" PointY="86.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ActivityLog" Width="1.5" PointX="20.75" PointY="27.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ActivityLogType" Width="1.5" PointX="18.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Address" Width="1.5" PointX="15.5" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Affiliate" Width="1.5" PointX="17.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.BackInStockSubscription" Width="1.5" PointX="20" PointY="52.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.BlogComment" Width="1.5" PointX="17.5" PointY="45.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.BlogPost" Width="1.5" PointX="15.25" PointY="48.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Campaign" Width="1.5" PointX="7.75" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Category" Width="1.5" PointX="8.25" PointY="52" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.CategoryTemplate" Width="1.5" PointX="9.75" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.CheckoutAttribute" Width="1.5" PointX="13" PointY="36" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.CheckoutAttributeValue" Width="1.5" PointX="15.25" PointY="44" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Country" Width="1.5" PointX="10.5" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.CrossSellProduct" Width="1.5" PointX="9.75" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Currency" Width="1.5" PointX="8.25" PointY="33.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Customer" Width="1.5" PointX="15.5" PointY="22.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.CustomerContent" Width="1.5" PointX="21.75" PointY="71.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.CustomerRole" Width="1.5" PointX="15.75" PointY="38.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.CustomerRoleMapping" Width="1.5" PointX="23" PointY="34.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.DeliveryTime" Width="1.5" PointX="10.5" PointY="49.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Discount" Width="1.5" PointX="10.5" PointY="53.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.DiscountUsageHistory" Width="1.5" PointX="15.75" PointY="55.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Download" Width="1.5" PointX="3" PointY="49.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.EmailAccount" Width="1.5" PointX="3.75" PointY="40.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ExportDeployment" Width="1.5" PointX="5.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ExportProfile" Width="1.5" PointX="3" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ExternalAuthenticationRecord" Width="1.5" PointX="17.75" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ForumPostVote" Width="1.5" PointX="26" PointY="46.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Forums_Forum" Width="1.5" PointX="23.5" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Forums_Group" Width="1.5" PointX="21.25" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Forums_Post" Width="1.5" PointX="22.75" PointY="20.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Forums_PrivateMessage" Width="1.5" PointX="17.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Forums_Subscription" Width="1.5" PointX="17.75" PointY="64.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Forums_Topic" Width="1.5" PointX="25.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.GenericAttribute" Width="1.5" PointX="5.75" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.GiftCard" Width="1.5" PointX="22.25" PointY="40.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.GiftCardUsageHistory" Width="1.5" PointX="24.5" PointY="41.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ImportProfile" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Language" Width="1.5" PointX="6" PointY="34.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.LocaleStringResource" Width="1.5" PointX="8.25" PointY="29.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.LocalizedProperty" Width="1.5" PointX="8.25" PointY="26" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Log" Width="1.5" PointX="17.75" PointY="73.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Manufacturer" Width="1.5" PointX="17.75" PointY="49" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ManufacturerTemplate" Width="1.5" PointX="11.75" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.MeasureDimension" Width="1.5" PointX="11.75" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.MeasureWeight" Width="1.5" PointX="12.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.MediaFile" Width="1.5" PointX="6" PointY="47.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.MediaFolder" Width="1.5" PointX="3.75" PointY="44.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.MediaStorage" Width="1.5" PointX="0.75" PointY="50.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.MediaTag" Width="1.5" PointX="8.25" PointY="64" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.MediaTrack" Width="1.5" PointX="8.25" PointY="66.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.MenuItemRecord" Width="1.5" PointX="10" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.MenuRecord" Width="1.5" PointX="7.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.MessageTemplate" Width="1.5" PointX="13.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.News" Width="1.5" PointX="8.25" PointY="40" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.NewsComment" Width="1.5" PointX="10.5" PointY="41.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.NewsLetterSubscription" Width="1.5" PointX="7.75" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Order" Width="1.5" PointX="17.75" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.OrderItem" Width="1.5" PointX="20" PointY="45.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.OrderNote" Width="1.5" PointX="20" PointY="20.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.PaymentMethod" Width="1.5" PointX="13.5" PointY="67.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.PermissionRecord" Width="1.5" PointX="20.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.PermissionRoleMapping" Width="1.5" PointX="23" PointY="37.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Poll" Width="1.5" PointX="21.75" PointY="76.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.PollAnswer" Width="1.5" PointX="24" PointY="72.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Product" Width="1.5" PointX="12.75" PointY="40.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Product_Category_Mapping" Width="1.5" PointX="21" PointY="56.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Product_Manufacturer_Mapping" Width="1.5" PointX="23" PointY="52.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Product_MediaFile_Mapping" Width="1.5" PointX="23" PointY="49.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Product_ProductAttribute_Mapping" Width="1.5" PointX="21" PointY="60" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Product_SpecificationAttribute_Mapping" Width="1.5" PointX="23" PointY="45.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ProductAttribute" Width="1.5" PointX="18.75" PointY="69" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ProductAttributeOption" Width="1.5" PointX="23.25" PointY="81.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ProductAttributeOptionsSet" Width="1.5" PointX="21" PointY="82.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ProductBundleItem" Width="1.5" PointX="15" PointY="76.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ProductBundleItemAttributeFilter" Width="1.5" PointX="17.25" PointY="78" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ProductReview" Width="1.5" PointX="24" PointY="56.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ProductReviewHelpfulness" Width="1.5" PointX="26.25" PointY="56.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ProductTag" Width="1.5" PointX="15" PointY="85.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ProductTemplate" Width="1.5" PointX="13.75" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ProductVariantAttributeCombination" Width="1.5" PointX="24" PointY="60" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ProductVariantAttributeValue" Width="1.5" PointX="23.25" PointY="66.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.QuantityUnit" Width="1.5" PointX="10.5" PointY="58.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.QueuedEmail" Width="1.5" PointX="6" PointY="39.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.QueuedEmailAttachment" Width="1.5" PointX="8.25" PointY="46.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.RecurringPayment" Width="1.5" PointX="20" PointY="23.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.RecurringPaymentHistory" Width="1.5" PointX="22.25" PointY="24.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.RelatedProduct" Width="1.5" PointX="9.75" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ReturnRequest" Width="1.5" PointX="17.75" PointY="81" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.RewardPointsHistory" Width="1.5" PointX="23" PointY="27.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Rule" Width="1.5" PointX="18" PointY="57.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.RuleSet" Width="1.5" PointX="15.75" PointY="58.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ScheduleTask" Width="1.5" PointX="0.75" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ScheduleTaskHistory" Width="1.5" PointX="3" PointY="13.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Setting" Width="1.5" PointX="13.75" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Shipment" Width="1.5" PointX="20" PointY="31.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ShipmentItem" Width="1.5" PointX="22.25" PointY="31.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ShippingMethod" Width="1.5" PointX="18" PointY="61" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ShoppingCartItem" Width="1.5" PointX="20.25" PointY="64.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.SpecificationAttribute" Width="1.5" PointX="18.5" PointY="36.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.SpecificationAttributeOption" Width="1.5" PointX="20.75" PointY="36.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.StateProvince" Width="1.5" PointX="13.25" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Store" Width="1.5" PointX="10.5" PointY="27.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.StoreMapping" Width="1.5" PointX="14.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.SyncMapping" Width="1.5" PointX="9.75" PointY="17.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.TaxCategory" Width="1.5" PointX="11.75" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.ThemeVariable" Width="1.5" PointX="0.75" PointY="18.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.TierPrice" Width="1.5" PointX="18" PointY="41.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.Topic" Width="1.5" PointX="2.75" PointY="18.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.UrlRecord" Width="1.5" PointX="4.75" PointY="18.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.WalletHistory" Width="1.5" PointX="25" PointY="23.25" IsExpanded="true" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_AclRecord_dbo_CustomerRole_CustomerRoleId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ActivityLog_dbo_ActivityLogType_ActivityLogTypeId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ActivityLog_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Address_dbo_Country_CountryId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Address_dbo_StateProvince_StateProvinceId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Affiliate_dbo_Address_AddressId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Customer_dbo_Address_BillingAddress_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Customer_dbo_Address_ShippingAddress_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Order_dbo_Address_BillingAddressId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Order_dbo_Address_ShippingAddressId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_BackInStockSubscription_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_BackInStockSubscription_dbo_Product_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_BlogComment_dbo_BlogPost_BlogPostId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_BlogComment_dbo_CustomerContent_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_BlogPost_dbo_Language_LanguageId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_BlogPost_dbo_MediaFile_MediaFileId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_BlogPost_dbo_MediaFile_PreviewMediaFileId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Category_dbo_Picture_PictureId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_Category_Mapping_dbo_Category_CategoryId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_CheckoutAttributeValue_dbo_CheckoutAttribute_CheckoutAttributeId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_CheckoutAttributeValue_dbo_MediaFile_MediaFileId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Country_dbo_Currency_DefaultCurrencyId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_dbo_Country_CountryOfOriginId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_StateProvince_dbo_Country_CountryId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Store_dbo_Currency_PrimaryExchangeRateCurrencyId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Store_dbo_Currency_PrimaryStoreCurrencyId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_CustomerContent_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_CustomerRoleMapping_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ExternalAuthenticationRecord_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Forums_Post_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Forums_PrivateMessage_dbo_Customer_FromCustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Forums_PrivateMessage_dbo_Customer_ToCustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Forums_Subscription_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Forums_Topic_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Log_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Order_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ReturnRequest_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_RewardPointsHistory_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ShoppingCartItem_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_WalletHistory_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ForumPostVote_dbo_CustomerContent_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_NewsComment_dbo_CustomerContent_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductReview_dbo_CustomerContent_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductReviewHelpfulness_dbo_CustomerContent_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_CustomerRoleMapping_dbo_CustomerRole_CustomerRoleId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_PermissionRoleMapping_dbo_CustomerRole_CustomerRoleId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_TierPrice_dbo_CustomerRole_CustomerRoleId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_dbo_DeliveryTime_DeliveryTimeId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductVariantAttributeCombination_dbo_DeliveryTime_DeliveryTimeId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_DiscountUsageHistory_dbo_Discount_DiscountId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_DiscountUsageHistory_dbo_Order_OrderId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Download_dbo_MediaFile_MediaFileId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Download_dbo_MediaStorage_MediaStorageId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_dbo_Download_SampleDownloadId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_QueuedEmailAttachment_dbo_Download_FileId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_QueuedEmail_dbo_EmailAccount_EmailAccountId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ExportDeployment_dbo_ExportProfile_ProfileId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ExportProfile_dbo_ScheduleTask_SchedulingTaskId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ForumPostVote_dbo_Forums_Post_ForumPostId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Forums_Forum_dbo_Forums_Group_ForumGroupId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Forums_Topic_dbo_Forums_Forum_ForumId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Forums_Post_dbo_Forums_Topic_TopicId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_GiftCard_dbo_OrderItem_PurchasedWithOrderItemId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_GiftCardUsageHistory_dbo_GiftCard_GiftCardId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_GiftCardUsageHistory_dbo_Order_UsedWithOrderId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ImportProfile_dbo_ScheduleTask_SchedulingTaskId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_LocaleStringResource_dbo_Language_LanguageId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_LocalizedProperty_dbo_Language_LanguageId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_News_dbo_Language_LanguageId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Poll_dbo_Language_LanguageId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Manufacturer_dbo_Picture_PictureId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_Manufacturer_Mapping_dbo_Manufacturer_ManufacturerId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_MediaFile_dbo_MediaFolder_FolderId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_MediaTrack_dbo_MediaFile_MediaFileId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_News_dbo_MediaFile_MediaFileId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_News_dbo_MediaFile_PreviewMediaFileId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Picture_dbo_MediaStorage_MediaStorageId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_Picture_Mapping_dbo_Picture_PictureId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_QueuedEmailAttachment_dbo_MediaFile_MediaFileId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_MediaFolder_dbo_MediaFolder_ParentId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_QueuedEmailAttachment_dbo_MediaStorage_MediaStorageId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_MenuItemRecord_dbo_MenuRecord_MenuId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_NewsComment_dbo_News_NewsItemId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_OrderItem_dbo_Order_OrderId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_OrderNote_dbo_Order_OrderId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_RecurringPayment_dbo_Order_InitialOrderId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_RewardPointsHistory_dbo_Order_UsedWithOrder_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Shipment_dbo_Order_OrderId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_WalletHistory_dbo_Order_OrderId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_OrderItem_dbo_Product_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_PermissionRoleMapping_dbo_PermissionRecord_PermissionRecordId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_PollAnswer_dbo_Poll_PollId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_Category_Mapping_dbo_Product_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_dbo_QuantityUnit_QuantityUnitId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_Manufacturer_Mapping_dbo_Product_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_Picture_Mapping_dbo_Product_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_ProductAttribute_Mapping_dbo_Product_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_SpecificationAttribute_Mapping_dbo_Product_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductBundleItem_dbo_Product_BundleProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductBundleItem_dbo_Product_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductReview_dbo_Product_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductVariantAttributeCombination_dbo_Product_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ShoppingCartItem_dbo_Product_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_TierPrice_dbo_Product_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_ProductAttribute_Mapping_dbo_ProductAttribute_ProductAttributeId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductVariantAttributeValue_dbo_Product_ProductAttribute_Mapping_ProductVariantAttributeId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Product_SpecificationAttribute_Mapping_dbo_SpecificationAttributeOption_SpecificationAttributeOptionId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductAttributeOptionsSet_dbo_ProductAttribute_ProductAttributeId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductAttributeOption_dbo_ProductAttributeOptionsSet_ProductAttributeOptionsSetId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductBundleItemAttributeFilter_dbo_ProductBundleItem_BundleItemId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ShoppingCartItem_dbo_ProductBundleItem_BundleItemId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductReviewHelpfulness_dbo_ProductReview_ProductReviewId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ProductVariantAttributeCombination_dbo_QuantityUnit_QuantityUnitId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_QueuedEmailAttachment_dbo_QueuedEmail_QueuedEmailId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_RecurringPaymentHistory_dbo_RecurringPayment_RecurringPaymentId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_Rule_dbo_RuleSet_RuleSetId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ScheduleTaskHistory_dbo_ScheduleTask_ScheduleTaskId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_ShipmentItem_dbo_Shipment_ShipmentId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.FK_dbo_SpecificationAttributeOption_dbo_SpecificationAttribute_SpecificationAttributeId" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.CustomerAddresses" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.Discount_AppliedToCategories" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.Discount_AppliedToManufacturers" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.Discount_AppliedToProducts" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.MediaFile_Tag_Mapping" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.PollVotingRecord" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.Product_ProductTag_Mapping" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.RuleSet_Category_Mapping" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.RuleSet_CustomerRole_Mapping" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.RuleSet_Discount_Mapping" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.RuleSet_PaymentMethod_Mapping" ManuallyRouted="false" />
+        <AssociationConnector Association="GroceryStoreNewModel.RuleSet_ShippingMethod_Mapping" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="GroceryStoreNewModel.CarouselSlider" Width="1.5" PointX="20.375" PointY="3.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

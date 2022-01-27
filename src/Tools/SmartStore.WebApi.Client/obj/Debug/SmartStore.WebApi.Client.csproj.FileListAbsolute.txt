@@ -1,0 +1,41 @@
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\bin\Debug\SmartStoreWebApiClient.exe.config
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\bin\Debug\SmartStoreWebApiClient.exe
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\bin\Debug\SmartStoreWebApiClient.pdb
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.MainForm.resources
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.Properties.Resources.resources
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.GenerateResource.cache
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.CopyComplete
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStoreWebApiClient.exe
+C:\Users\Yuvaraj_Manikannan\Source\Repos\rdportal\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStoreWebApiClient.pdb
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\bin\Debug\SmartStoreWebApiClient.exe.config
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\bin\Debug\SmartStoreWebApiClient.exe
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\bin\Debug\SmartStoreWebApiClient.pdb
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.MainForm.resources
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.Properties.Resources.resources
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.GenerateResource.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.CopyComplete
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStoreWebApiClient.exe
+C:\Users\Yuvaraj_Manikannan\Downloads\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStoreWebApiClient.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\bin\Debug\SmartStoreWebApiClient.exe.config
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\bin\Debug\SmartStoreWebApiClient.exe
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\bin\Debug\SmartStoreWebApiClient.pdb
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.AssemblyReference.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.MainForm.resources
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.Properties.Resources.resources
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.GenerateResource.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.CopyComplete
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStoreWebApiClient.exe
+C:\Users\Yuvaraj_Manikannan\OneDrive - EPAM\Documents\GroceryNew-master\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStoreWebApiClient.pdb

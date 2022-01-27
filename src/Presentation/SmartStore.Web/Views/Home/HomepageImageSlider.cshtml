@@ -1,0 +1,70 @@
+﻿@{
+    Layout = null;
+    var i = 0;
+
+}
+@*<script type="text/javascript">
+    alert($(window).width());
+</script>*@
+
+<style>
+    .carousel-inner {
+        border-radius: 8px;
+    }
+
+        .carousel-inner img {
+            max-width: 100%;
+            height: auto;
+        }
+
+    @@media all and (max-width: 420px) {
+        .carousel-inner img {
+            width: 100%;
+            height: 200px;
+        }
+    }
+</style>
+
+<div style="padding-bottom:10px">
+    <div id="demo" class="carousel slide" data-ride="carousel" data-interval="2000">
+        <div class="carousel-inner" role="listbox">
+            @*@{int i = 0;}*@
+            @foreach (var item in Model)
+            {
+                if (item.Image != null)
+                {
+
+                    //string screenWidth = Systems.Windows.Forms.Screen.PrimaryScreen.Bounds.Width;
+                    i++;
+                    var active = i == 1 ? "active" : "";
+                    <div class="carousel-item @active">
+                        @*<img src="lighthouse-200.jpg" sizes="50vw"
+                                            srcset="data:image/jpeg;base64,@(Convert.ToBase64String(item.MobileImage)) 100w,@item.MobileImageFilePath 200w,
+                            @(Convert.ToBase64String(item.MobileImage)) 400w, data:image/jpeg;base64,@(Convert.ToBase64String(item.MobileImage)) 800w,
+                             data:image/jpeg;base64,@(Convert.ToBase64String(item.Image)) 1000w" alt="a lighthouse">*@
+                        @*<img src="data:image/jpeg;base64,@(Convert.ToBase64String(item.MobileImage))"
+                             alt="My Responsive Image"
+                             srcset="data:image/jpeg;base64,@(Convert.ToBase64String(item.MobileImage)) 360w,
+          data:image/jpeg;base64,@(Convert.ToBase64String(item.MobileImage)) 400w,
+          data:image/jpeg;base64,@(Convert.ToBase64String(item.Image)) 1536w"
+                             sizes="100vw" />*@
+                        <picture>
+                            <source media="(min-width: 800px)" srcset="data:image/jpeg;base64,@(Convert.ToBase64String(item.Image))">
+                            <source media="(min-width: 360px)" srcset="data:image/jpeg;base64,@(Convert.ToBase64String(item.MobileImage))">
+                            <img src="data:image/jpeg;base64,@(Convert.ToBase64String(item.Image))">
+                        </picture>
+                    </div>
+                }
+            }
+
+        </div>
+        <a class="carousel-control-prev" href="#demo" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#demo" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+    </div>
+
+</div>
+
